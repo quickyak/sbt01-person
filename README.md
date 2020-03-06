@@ -24,7 +24,7 @@ public class Person {
      * @return - returns true if this person has another gender than passed person and they are not husband and wife, false otherwise
      */
     public boolean marry(Person person) {
-        ...
+        //...
     }
  
     /**
@@ -33,6 +33,9 @@ public class Person {
      */
     public boolean divorce() {
     }
+}
+```
 
+//Тест выкладки git push origin
 
 
