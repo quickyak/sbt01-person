@@ -6,6 +6,7 @@
 
 ## Реализовать методы Person по java докам, запушить в github, прислать мне ссылку
  
+```java
 public class Person {
     private final boolean man;
     private final String name;
